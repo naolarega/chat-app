@@ -1,3 +1,5 @@
+
+
 const socket = io();
 
 const chatForm = document.getElementById("chat-form");
